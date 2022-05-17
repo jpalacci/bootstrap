@@ -1,4 +1,4 @@
-# Twitter Bootstrap Exercise 
+# Bootstrap Exercise 
 
 For this assignment you should **only** use Twitter Bootstrap and [lorem pixel](http://lorempixel.com) for placeholder images.
 
